@@ -1,0 +1,13 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "bot.py",
+  "scripts": {
+    "start": "python3 bot.py"
+  },
+  "dependencies": {
+    "python-telegram-bot": "^14.0.0",
+    "requests": "^2.27.1"
+  }
+}
